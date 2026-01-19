@@ -1,4 +1,4 @@
-# 🧱 Basetable Creation in Python
+# Basetable Creation in Python
 
 **Building an analytics-ready basetable from raw financial data using a time-aware data science approach.**
 
@@ -25,3 +25,4 @@
 ![Git](https://img.shields.io/badge/-Git-black?logo=git)
 
 ---
+
