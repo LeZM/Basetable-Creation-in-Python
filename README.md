@@ -106,19 +106,21 @@ The basetable can be directly reused for BI dashboards or predictive modeling ta
 
 ## 📂 Project Structure
 
+```text
 basetable-creation-in-python/
 ├── data/
 ├── docs/
 ├── src/
 └── README.md
-
+```
 
 ---
 
 ## 👤 Author
 
 **Mehdi Zorkani**
-Master’s student — Operations & Supply Chain Management
-Specialized Master — AI & Data Analytics for Business
+- Master’s student – Operations & Supply Chain Management  
+- Specialized Master – AI & Data Analytics for Business  
 
 🔗 LinkedIn: https://www.linkedin.com/in/mehdizorkani
+
